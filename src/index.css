@@ -1,0 +1,88 @@
+.container{
+
+
+  margin-top: 10px;
+  background-color: rgb(57, 110, 69);
+  padding-top: 80px;
+  padding-bottom: 80px;
+  
+
+}
+
+
+
+
+#overAll{
+
+  margin: 30px;
+
+}
+
+
+#side-2{
+  background-color:white;
+  margin-left: 0%;
+}
+
+
+
+h1{
+  
+
+font-family: 'Crimson Text', serif;
+font-family: 'DM Serif Display', serif;
+font-family: 'Figtree', sans-serif;
+font-family: 'Fira Sans', sans-serif;
+font-family: 'Lobster', sans-serif;
+font-family: 'Rubik', sans-serif;
+font-weight: bolder;
+color:rgb(94, 91, 91);
+
+margin-left: 140px;
+margin-bottom: 20px;
+margin-top: 30px;
+margin-left:220px;
+
+
+}
+label{
+  font-size: 17px;
+  margin-top: 12px;
+  margin-bottom: 11px;
+  /* margin-top: 40px; */
+  font-weight: bold;
+  color:rgb(94, 91, 91);
+}
+
+
+
+.feilds{
+  margin-right: 80px;
+  border: none;
+  border-bottom: 2px solid skyblue;
+  margin-bottom: 17px;
+
+  color: lightseagreen;
+  height: 33px;
+}
+
+
+.submit{
+  margin-top: 25px;
+  margin-left: 190px;
+  border-radius: 20px;
+  justify-content: center;
+  height: 40px;
+  width: 140px;
+  font-weight: 500;
+  font-size: 17px;
+  color:black;
+  background-color:darkcyan;
+  border: none;
+}
+.submit:hover{
+  color:white;
+  background-color: darkolivegreen;
+  font-weight: bold;
+}
+
